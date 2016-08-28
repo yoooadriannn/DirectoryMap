@@ -1,0 +1,2 @@
+# SmallChurchAid
+CKCHumans
